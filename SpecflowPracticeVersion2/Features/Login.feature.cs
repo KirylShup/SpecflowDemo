@@ -109,8 +109,8 @@ this.ScenarioInitialize(scenarioInfo);
                             "Username",
                             "Password"});
                 table1.AddRow(new string[] {
-                            "kiryl_user_75950929@mail.com",
-                            "CConnect1234"});
+                            "User_email",
+                            "User_password"});
 #line 6
  testRunner.When("I login with username and password", ((string)(null)), table1, "When ");
 #line hidden
